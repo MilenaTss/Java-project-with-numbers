@@ -1,1 +1,1 @@
-#Jet Brains Academy study projects
+# Jet Brains Academy study projects
