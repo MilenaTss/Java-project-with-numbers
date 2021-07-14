@@ -8,8 +8,8 @@ If there is no -mode, the program work in enc mode.
 **-data** send text to encode or decode it  
 **-in**, it is name of file, if we want to read data from the file  
 **-out**, it is name of file, if we want to write result to file  
-If there is no -out argument, the program must print data to the standard output.  
-If there are both -data and -in arguments, program prefer -data over -in.  
+If there is no **-out** argument, the program must print data to the standard output.  
+If there are both **-data** and **-in** arguments, program prefer **-data** over **-in**.  
   
   
 The first algorithm would be shifting algorithm (it shifts each letter by the specified number according to its order in the alphabet in circle).  
